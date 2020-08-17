@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown(int)
-
+int.to_i
 while int >= 0
   puts "#{int} SECOND(S)!\n"
   int -= 1
@@ -12,6 +12,6 @@ end
 end
 
 def countdown_with_sleep(int)
-  
+
 
 end
