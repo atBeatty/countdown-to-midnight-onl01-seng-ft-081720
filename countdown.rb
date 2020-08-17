@@ -8,5 +8,5 @@ while int >= 0
 end
 
 return "HAPPY NEW YEAR!"
-  
+
 end
